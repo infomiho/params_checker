@@ -1,0 +1,31 @@
+[
+    {
+        "country": "ro",
+        "env": "dev",
+        "url": "https://ct-dev-www.superbet.ro/rest/SBWeb.Models.Session/returnSiteParams"
+    },
+    {
+        "country": "ro",
+        "env": "stage",
+        "url": "https://ct-st-www.superbet.ro/rest/SBWeb.Models.Session/returnSiteParams"
+    },
+    {
+        "country": "ro",
+        "env": "prod",
+        "url": "https://old.superbet.ro/rest/SBWeb.Models.Session/returnSiteParams"
+    },
+    {
+        "country": "pl",
+        "env": "dev",
+        "url": "https://ct-dev-www.superbet.pl/rest/SBWeb.Models.Session/returnSiteParams"
+    },{
+        "country": "pl",
+        "env": "stage",
+        "url": "https://ct-st-www.superbet.pl/rest/SBWeb.Models.Session/returnSiteParams"
+    },
+    {
+        "country": "pl",
+        "env": "prod",
+        "url": "https://old.superbet.pl/rest/SBWeb.Models.Session/returnSiteParams"
+    }
+]
