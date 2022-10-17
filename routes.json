@@ -6,6 +6,11 @@
     },
     {
         "country": "ro",
+        "env": "qa",
+        "url": "https://ax-www-pub.superbet.ro/rest/SBWeb.Models.Session/returnSiteParams"
+    },
+    {
+        "country": "ro",
         "env": "stage",
         "url": "https://ct-st-www.superbet.ro/rest/SBWeb.Models.Session/returnSiteParams"
     },
@@ -18,7 +23,13 @@
         "country": "pl",
         "env": "dev",
         "url": "https://ct-dev-www.superbet.pl/rest/SBWeb.Models.Session/returnSiteParams"
-    },{
+    },
+    {
+        "country": "pl",
+        "env": "qa",
+        "url": "https://ct-dev-www.superbet.pl/rest/SBWeb.Models.Session/returnSiteParams"
+    },
+    {
         "country": "pl",
         "env": "stage",
         "url": "https://ct-st-www.superbet.pl/rest/SBWeb.Models.Session/returnSiteParams"
@@ -27,5 +38,25 @@
         "country": "pl",
         "env": "prod",
         "url": "https://old.superbet.pl/rest/SBWeb.Models.Session/returnSiteParams"
+    },
+    {
+        "country": "com",
+        "env": "dev",
+        "url": "https://api.web.dev01.betler.superbet.com/api/v1/returnSiteParams"
+    },
+    {
+        "country": "com",
+        "env": "qa",
+        "url": "https://api.web.qa.betler.superbet.com/api/v1/returnSiteParams"
+    },
+    {
+        "country": "rs",
+        "env": "dev",
+        "url": "https://api.web.dev01.betler.superbet.rs/api/v1/returnSiteParams"
+    },
+    {
+        "country": "rs",
+        "env": "qa",
+        "url": "https://api.web.qa.betler.superbet.rs/api/v1/returnSiteParams"
     }
 ]
